@@ -4,17 +4,17 @@
 #### 🧠 Background
 The company is a car dealership that sells various car models. To effectively track and analyze our sales performance, we require a comprehensive Car Sales Dashboard in Power BI.
 
-#### Objective
+#### 🦪 Objective
 <br>
 
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical Key Performance Indicators (KPIs) related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 
-### Problem Statement 1: KPI’s Requirement
+### 📝 Problem Statement 1: KPI’s Requirement
 <br>
 
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
-#### Sales Overview:
+#### ⌛ Sales Overview:
 <br>
 
 Year-to-Date (YTD) Total Sales
@@ -25,7 +25,7 @@ Year-over-Year (YOY) Growth in Total Sales
 
 Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
 
-#### Average Price Analysis:
+#### ⌛ Average Price Analysis:
 <br>
 
 YTD Average Price
@@ -44,7 +44,7 @@ MTD Cars Sold
 YOY Growth in Cars Sold
 Difference between YTD Cars Sold and PTYD Cars Sold
 
-### Problem Statement 2: Charts Requirement
+### 📝 Problem Statement 2: Charts Requirement
 <br>
 
 The dashboard should include various charts to visually represent sales data and trends.
@@ -64,7 +64,7 @@ The dashboard should include various charts to visually represent sales data and
 
 <br>
 
-### Conclusion
+### 🤝 Conclusion
 <br>
 
 This Car Sales Dashboard project aims to provide a comprehensive overview of our sales performance, allowing us to make informed decisions and drive business growth. By visualizing key metrics and trends, we can identify areas for improvement and capitalize on opportunities in the market.
